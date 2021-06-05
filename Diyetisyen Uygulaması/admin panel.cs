@@ -17,5 +17,6 @@ namespace Diyetisyen_Uygulaması
             InitializeComponent();
         }
 
+       
     }
 }
